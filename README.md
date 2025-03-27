@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
+  <a href="https://www.hackerrank.com/profile/aniket_cs">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png"/>
+</a>
 <a href="https://www.linkedin.com/in/aniket-cs/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png"/>
-</a>
-<a href="https://www.hackerrank.com/profile/aniket_cs">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png"/>
 </a>
 <a href="https://www.instagram.com/aniketdas.in/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/instagram_social_media_social_media_network-128.png"/>
@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/facebook_social_media_social_media_network-128.png"/>
 </a>
-<a href="https://hashnode.com/">
-  <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
-</a>
 <a href="https://zsecurity.org/author/aniket2aniket/">
   <img height="50" src="https://zsecurity.org/wp-content/uploads/2017/11/cropped-z-icon-300x300.png">
+</a>
+<a href="https://hashnode.com/">
+  <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
 </a>
 </p>
 

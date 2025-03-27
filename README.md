@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
 </a>
 <a href="https://zsecurity.org/author/aniket2aniket/">
-  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEZ7ubTv1yc9k0k9VsZ8xutY3v4UzgfC9OQ&s>
+  <img height="50" src="https://yt3.googleusercontent.com/ArY4QvTCPCxlM2TkIsm5EfZ91Vzm5SLuFT_5vjcKn5yZP5F8IX53kvXe8L9zpW88yAuBr8bT=s900-c-k-c0x00ffffff-no-rj">
 </a>
 </p>
 

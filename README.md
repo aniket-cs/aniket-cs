@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/ce46ae05-69e1-4be3-9690-2680164638d3)
 <!--
 **aniket-cs/aniket-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&animation=fadeIn&height=100&section=header"/>
 </p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<a href="https://www.linkedin.com/in/aniket-cs/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.hackerrank.com/profile/aniket_cs">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png"/>
+</a>
+<a href="https://www.instagram.com/aniketdas.in/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 

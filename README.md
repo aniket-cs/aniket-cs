@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 <a href="https://hashnode.com/">
   <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
 </a>
+<a href="https://zsecurity.org/author/aniket2aniket/">
+  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEZ7ubTv1yc9k0k9VsZ8xutY3v4UzgfC9OQ&s>
+</a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>

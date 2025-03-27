@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ce46ae05-69e1-4be3-9690-2680164638d3)
+
 <!--
 **aniket-cs/aniket-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,15 +22,23 @@ Here are some ideas to get you started:
   Let's Connect and have a Chat!💬
 </h1>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/aniket-cs/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png"/>
 </a>
 <a href="https://www.hackerrank.com/profile/aniket_cs">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png"/>
 </a>
 <a href="https://www.instagram.com/aniketdas.in/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/instagram_social_media_social_media_network-128.png"/>
 </a>
+<a href="https://www.facebook.com">
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/facebook_social_media_social_media_network-128.png"/>
+</a>
+<a href="https://hashnode.com/">
+  <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
+</a>
+</p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 

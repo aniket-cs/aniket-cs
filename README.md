@@ -51,4 +51,11 @@ technical_background=(
 currently_learning=("Terraform" "Container Security")
 goals_2025=("Create 10+ Projects on Cyber/Cloud Security" "Learn at least 3 new Technologies")
 hobbies=("Newspaper Reading" "Stock Market Investment" "Cinema")
+
+echo "Name: $name"
+echo "Location: $location"
+echo "Current Job: $current_job"
+echo "Company: $company"
+echo "Education: ${education[*]}"
+echo "Fields of Interests: ${fields_of_interests[*]}"
 ```

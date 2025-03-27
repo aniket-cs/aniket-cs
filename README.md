@@ -126,7 +126,7 @@ echo "Fields of Interests: ${fields_of_interests[*]}"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<h2 align="center">A Passionate Cloud Engineer From India</h2>
+<h1 align="center">A Passionate Cloud Engineer From India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-cs&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-cs" /> </p>
 
@@ -137,6 +137,6 @@ echo "Fields of Interests: ${fields_of_interests[*]}"
   
   <img src="https://github-readme-stats.vercel.app/api?username=aniket-cs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-cs&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <br><img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-cs&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 

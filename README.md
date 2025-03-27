@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **aniket-cs/aniket-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +15,40 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&animation=fadeIn&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&animation=fadeIn&height=100&section=header"/>
 </p>
 
-![GIF Description](https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif)
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
+```bash
+#!/bin/bash
 
+name="Aniket Das"
+location="Kolkata, West Bengal"
+current_job="Cloud Security Engineer"
+
+education=(
+    "Self-Taught Cloud Security and DevSecOps Engineer"
+    "Bachelor's in Computer Science and Engineering"
+)
+
+company="Capgemini India"
+
+fields_of_interests=(
+    "DevSecOps"
+    "Microsoft Azure"
+    "Microsoft Defender"
+    "Cloud Security"
+    "Cloud Networking"
+    "Cyber Security"
+)
+
+technical_background=(
+    "Cloud Security and DevSecOps"
+    "Python Developer with Cloud DevOps"
+)
+
+currently_learning=("Terraform" "Container Security")
+goals_2025=("Create 10+ Projects on Cyber/Cloud Security" "Learn at least 3 new Technologies")
+hobbies=("Newspaper Reading" "Stock Market Investment" "Cinema")
+```

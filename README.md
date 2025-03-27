@@ -103,6 +103,17 @@ echo "Fields of Interests: ${fields_of_interests[*]}"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45" />
+<img src="https://cdn1.iconfinder.com/data/icons/devops-cycle/256/devops_cycle_2_flat-512.png" alt="devops" width="45" height="45" />
+<img src="https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_cloud_data_safe_Lock_locked-512.png" alt="cloud security" width="45" height="45" />
+<img src="https://cdn0.iconfinder.com/data/icons/search-engine-optimization-29/66/20-512.png" alt="cyber security" width="45" height="45" />
+<img src="https://cdn3.iconfinder.com/data/icons/cloud-computing-69/66/9-512.png" alt="firewall" width="45" height="45" />
+<img src="https://cdn4.iconfinder.com/data/icons/cyber-security-176/64/VPN_Protection-512.png" alt="VPN" width="45" height="45" />
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/76-office-512.png" alt="office365" width="45" height="45" />
 </p>
 
 <p align="center">

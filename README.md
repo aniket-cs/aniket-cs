@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
+  <a href="mailto:aniket.das@outlook.in">
+    <img src="https://cdn0.iconfinder.com/data/icons/basic-ui-elements-2-2-flat-style/512/Basic_UI_Elements_-_2.2_-_Flat_Style_-_36-23-512.png" alt="Outlook Email" height="50">
+  </a>
   <a href="https://www.hackerrank.com/profile/aniket_cs">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png"/>
-</a>
+  </a>
 <a href="https://www.linkedin.com/in/aniket-cs/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png"/>
 </a>
@@ -140,3 +143,9 @@ echo "Fields of Interests: ${fields_of_interests[*]}"
   <br><img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-cs&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+ 🌍 Let's Connect 🔗, Digitalize💡, and Secure 🔐 the Future! 🚀
 </h1>
 
 <p align="center">
@@ -62,27 +62,27 @@ location= "Kolkata, West Bengal"
 current_job= "Cloud Security Engineer"
 
 education=(
-    "Self-Taught Cloud Security and DevSecOps Engineer"
-    "Bachelor's in Computer Science and Engineering"
+    "Experienced Cloud Security and DevSecOps Engineer"
+    "MBA in Operations Management" from IIM Kashipur
+    "Master's in Cloud Computing and Networking" from IIT Patna
+    "Bachelor's in Computer Science and Engineering" from NiT Kolkata
 )
 
 company= "Capgemini India"
 
 fields_of_interests=(
-    "DevSecOps"
-    "Microsoft Azure"
-    "Microsoft Defender"
+    "Azure DevOps"
+    "Cloud DevSecOps"
     "Cloud Security"
-    "Cloud Networking"
-    "Cyber Security"
+    "Microsoft Defender 365"
 )
 
 technical_background=(
-    "Cloud Security and DevSecOps"
-    "Python Developer with Cloud DevOps"
+    "Cloud Security and DevSecOps" - 3.8 years
+    "Python Developer with Cloud DevOps" - 6 months
 )
 
-currently_learning= ("Terraform" "Container Security")
+currently_learning= ("Container Security" "Defender for Endpoints")
 goals_2025= ("Create 10+ Projects on Cyber/Cloud Security" "Learn at least 3 new Technologies")
 hobbies= ("Newspaper Reading" "Stock Market Investment" "Cinema")
 

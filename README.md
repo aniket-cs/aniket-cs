@@ -63,9 +63,7 @@ current_job= "Cloud Security Engineer"
 
 education=(
     "Experienced Cloud Security and DevSecOps Engineer"
-    "MBA in Operations Management" from IIM Kashipur
-    "Master's in Cloud Computing and Networking" from IIT Patna
-    "Bachelor's in Computer Science and Engineering" from NiT Kolkata
+    "Bachelor's in Computer Science and Engineering"
 )
 
 company= "Capgemini India"
@@ -78,8 +76,8 @@ fields_of_interests=(
 )
 
 technical_background=(
-    "Cloud Security and DevSecOps" - 3.8 years
-    "Python Developer with Cloud DevOps" - 6 months
+    "Cloud Security and DevSecOps - 3.8 years"
+    "Python Developer with Cloud DevOps - 6 months"
 )
 
 currently_learning= ("Container Security" "Defender for Endpoints")

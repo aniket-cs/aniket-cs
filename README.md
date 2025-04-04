@@ -141,12 +141,15 @@ echo "Fields of Interests: ${fields_of_interests[*]}"
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-cs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="170" alt="languages graph"  />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-cs&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="280" alt="activity-graph graph"  />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/github-snake.svg" />
+</picture>
+
+
 </div>
 
 
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/pacman-contribution-graph.svg">
-</picture>
+

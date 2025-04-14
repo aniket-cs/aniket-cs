@@ -1,4 +1,3 @@
-
 <!--
 **aniket-cs/aniket-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,6 +43,9 @@ Here are some ideas to get you started:
 <a href="https://hashnode.com/">
   <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
 </a>
+<a href="https://aniketcs.netlify.app/">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png"/>
+</a>
 </p>
 
 <br>
@@ -82,7 +84,7 @@ technical_background=(
 
 currently_learning= ("Container Security" "Defender for Endpoints")
 goals_2025= ("Create 10+ Projects on Cyber/Cloud Security" "Learn at least 3 new Technologies")
-hobbies= ("Newspaper Reading" "Stock Market Investment" "Cinema")
+hobbies= ("Newspaper Reading" "Stock Market Investment" "Movies")
 
 
 echo "Name: $name"
@@ -143,9 +145,9 @@ echo "Fields of Interests: ${fields_of_interests[*]}"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-cs&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="280" alt="activity-graph graph"  />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aniket-cs/aniket-cs/output/pacman-contribution-graph.svg">
 </picture>
 
 
